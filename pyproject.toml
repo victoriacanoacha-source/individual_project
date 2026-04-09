@@ -9,5 +9,6 @@ dependencies = [
     "jupyter>=1.1.1",
     "pandas>=3.0.2",
     "plotly>=6.6.0",
+    "pycountry>=26.2.16",
     "seaborn>=0.13.2",
 ]
