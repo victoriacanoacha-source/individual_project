@@ -13,4 +13,5 @@ dependencies = [
     "plotly>=6.6.0",
     "pycountry>=26.2.16",
     "seaborn>=0.13.2",
+    "statsmodels>=0.14.6",
 ]
